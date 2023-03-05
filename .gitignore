@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+./conf/app.ini
+
+runtime/*
+!runtime/qrcode/bg.jpg
+!runtime/fonts
